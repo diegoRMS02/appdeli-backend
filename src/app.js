@@ -16,6 +16,8 @@ app.use(require('./routes/parrilla'));
 app.use(require('./routes/entradas'));
 app.use(require('./routes/tragos'));
 app.use(require('./routes/postres'));
+app.use(require('./routes/categorie'));
+
 
 
 
